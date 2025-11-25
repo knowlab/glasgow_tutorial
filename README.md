@@ -43,4 +43,4 @@ Professor of Health Informatics \& AI, University of Glasgow. Co-leads SHW Data 
 ## Tutorial Material
 
 - [GitHub Repository](https://github.com/knowlab/glasgow_tutorial)
-- [Slides PDF](Glasgow_Tutorial.pdf)
+- [Slides PDF](241125_MLLM_Tutorial.pdf)
